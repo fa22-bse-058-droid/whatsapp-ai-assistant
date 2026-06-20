@@ -1,5 +1,5 @@
 
-# 🤖 WhatsApp AI Assistant
+ WhatsApp AI Assistant
 
 **An AI-powered WhatsApp Business Assistant that handles customer support, lead capture, and appointment booking — 24/7, automatically.**
 
